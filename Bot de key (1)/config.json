@@ -1,0 +1,9 @@
+{
+    "client": {
+        "token": "token bot",
+        "embed": "#000000"
+    },
+    "gerarkey": {
+        "channel_active_key": "id canal para liberar"
+    }
+}
